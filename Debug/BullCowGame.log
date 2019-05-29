@@ -1,0 +1,6 @@
+﻿  fBullCowGame.cpp
+d:\unreal\visual\section_03\bullcowgame\fbullcowgame.cpp(38): warning C4018: '<': signed/unsigned mismatch
+d:\unreal\visual\section_03\bullcowgame\fbullcowgame.cpp(50): warning C4018: '<': signed/unsigned mismatch
+d:\unreal\visual\section_03\bullcowgame\fbullcowgame.cpp(52): warning C4018: '<': signed/unsigned mismatch
+d:\unreal\visual\section_03\bullcowgame\fbullcowgame.cpp(65): warning C4018: '>': signed/unsigned mismatch
+  BullCowGame.vcxproj -> D:\UNreal\visual\Section_03\Debug\BullCowGame.exe
